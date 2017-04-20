@@ -25,6 +25,8 @@ gem 'inherited_resources', github: 'activeadmin/inherited_resources'
 
 gem 'activeadmin', github: 'activeadmin'
 
+gem 'active_skin'
+
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
