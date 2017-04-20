@@ -27,6 +27,8 @@ gem 'activeadmin', github: 'activeadmin'
 
 gem 'active_skin'
 
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
+
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
